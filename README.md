@@ -5,6 +5,9 @@
 This is my first time coding C#, hopefully it's decent heh.
 My experience is mostly with C++ and Rust, so I doubt C# is much harder.
 
+If you are here from my other repos with actual projects - leave. There is literally nothing of interest here.
+C# is just Microsoft Java. ![TrollSmile (a trollface smiling with a "yep" smile)](https://cdn.7tv.app/emote/613d12b93f2fa247f2ed5379/1x.webp)
+
 ## Projects
 
 ### Enclosing rectangle
