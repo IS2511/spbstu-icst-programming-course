@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enclosing-rectangle", "enclosing-rectangle\enclosing-rectangle.csproj", "{1CF14CB2-05ED-41CA-B6BE-B1BAE51284D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grid-of-hash-symbols", "grid-of-hash-symbols\grid-of-hash-symbols.csproj", "{DDA93C99-7061-4564-931B-C04ED61F6720}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{1CF14CB2-05ED-41CA-B6BE-B1BAE51284D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CF14CB2-05ED-41CA-B6BE-B1BAE51284D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CF14CB2-05ED-41CA-B6BE-B1BAE51284D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA93C99-7061-4564-931B-C04ED61F6720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA93C99-7061-4564-931B-C04ED61F6720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA93C99-7061-4564-931B-C04ED61F6720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA93C99-7061-4564-931B-C04ED61F6720}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
