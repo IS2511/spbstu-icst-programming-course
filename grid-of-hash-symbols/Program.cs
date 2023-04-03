@@ -16,7 +16,11 @@ internal class Program
                     Console.Write("#");
                 else
                     Console.Write(" ");
+                if ((j + 1) % segment_size == 0)
+                    Console.Write(" ");
             }
+            if ((i + 1) % segment_size == 0)
+                Console.WriteLine();
             Console.WriteLine();
         }
         
