@@ -31,3 +31,18 @@ C# is just Microsoft Java. ![TrollSmile (a trollface smiling with a "yep" smile)
 
 </details>
 
+### Find N biggest
+
+- Project: [find-n-biggest](find-n-biggest)
+- [Assignment in moodle](https://dl.spbstu.ru/mod/assign/view.php?id=48150)
+
+<details><summary>Assignement as stated in moodle</summary>
+
+Kinda poorly worded but ok.
+
+> #### ЗаданиеДоп: N наибольших
+> Разработать функцию, которая определяет номера N наибольших элементов в  целочисленном массиве.
+> 
+> Известно, что все элементы массива положительны, и что N заведомо меньше размера массива.
+
+</details>
