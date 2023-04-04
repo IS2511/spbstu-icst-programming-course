@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enclosing-rectangle", "encl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grid-of-hash-symbols", "grid-of-hash-symbols\grid-of-hash-symbols.csproj", "{DDA93C99-7061-4564-931B-C04ED61F6720}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "find-n-biggest", "find-n-biggest\find-n-biggest.csproj", "{C5B1F1D4-63C6-405C-B8F3-67C0739C40F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{DDA93C99-7061-4564-931B-C04ED61F6720}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDA93C99-7061-4564-931B-C04ED61F6720}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDA93C99-7061-4564-931B-C04ED61F6720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B1F1D4-63C6-405C-B8F3-67C0739C40F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B1F1D4-63C6-405C-B8F3-67C0739C40F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B1F1D4-63C6-405C-B8F3-67C0739C40F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B1F1D4-63C6-405C-B8F3-67C0739C40F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
