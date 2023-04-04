@@ -4,19 +4,6 @@ using System.Security.Cryptography;
 
 internal class Program
 {
-    private static uint PowOfTwo(int power)
-    {
-        return 1u << power;
-    }
-    
-    private static uint GetDivision(uint index, uint length)
-    {
-        if (index == 0)
-            return length / 2;
-
-        return Math.Max(1, length / PowOfTwo(Convert.ToInt32(index + 1)));
-    }
-    
     public static void Main(string[] args)
     {
         const uint N = 5;
