@@ -18,7 +18,7 @@ Also known as "DominoC".
 - [Assignment in moodle](https://dl.spbstu.ru/mod/assign/view.php?id=166538)
 - [Task in PDF (moodle)](https://dl.spbstu.ru/mod/resource/view.php?id=166539)
 
-<details><summary>Assignement as stated in moodle</summary>
+<details><summary>Assignment as stated in moodle</summary>
 
 > Задача: необходимо разработать модуль, который бы реализовывал логику игрока в домино.
 >
@@ -45,7 +45,7 @@ Also known as "DominoC".
 - Project: [enclosing-rectangle](enclosing-rectangle)
 - [Assignment in moodle](https://dl.spbstu.ru/mod/assign/view.php?id=48191)
 
-<details><summary>Assignement as stated in moodle</summary>
+<details><summary>Assignment as stated in moodle</summary>
 
 > #### Задание: Охватывающий прямоугольник
 > Задайте структуру, которая бы описывала прямоугольник на плоскости. Предположить, что стороны прямоугольника параллельны осям. Координаты вершин - тип double.
@@ -66,7 +66,7 @@ Also known as "DominoC".
 - Project: [find-n-biggest](find-n-biggest)
 - [Assignment in moodle](https://dl.spbstu.ru/mod/assign/view.php?id=48150)
 
-<details><summary>Assignement as stated in moodle</summary>
+<details><summary>Assignment as stated in moodle</summary>
 
 Kinda poorly worded but ok.
 
