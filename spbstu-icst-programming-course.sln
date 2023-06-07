@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grid-of-hash-symbols", "gri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "find-n-biggest", "find-n-biggest\find-n-biggest.csproj", "{C5B1F1D4-63C6-405C-B8F3-67C0739C40F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "domino", "domino\domino.csproj", "{8F7760A5-8871-4A65-8CB3-5CD135C9CD04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{C5B1F1D4-63C6-405C-B8F3-67C0739C40F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5B1F1D4-63C6-405C-B8F3-67C0739C40F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5B1F1D4-63C6-405C-B8F3-67C0739C40F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7760A5-8871-4A65-8CB3-5CD135C9CD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7760A5-8871-4A65-8CB3-5CD135C9CD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7760A5-8871-4A65-8CB3-5CD135C9CD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7760A5-8871-4A65-8CB3-5CD135C9CD04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
