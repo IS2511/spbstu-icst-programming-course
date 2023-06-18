@@ -121,7 +121,7 @@ namespace DominoC
         {
             // Если подходящих доминошек нет - возвращаем null
             // Если подходящая только одна - возвращаем ее
-            // Если меньше трех доминошек в руке и есть (0, 0) - возвращаем ее
+            // Если меньше трех доминошек в руке, есть (0, 0) и ее можно скинуть - возвращаем ее
             switch (compatibleBones.Count)
             {
                 case 0:
@@ -129,7 +129,8 @@ namespace DominoC
                 case 1:
                     return compatibleBones.First();
                 case <= 3 
-                when (compatibleBones.Contains(new MTable.SBone())):
+                    when ( compatibleBones.Any(bone => bone is { First: 0, Second: 0 })
+                           && ((board.First().First == 0) || (board.Last().Second == 0)) ):
                     return new MTable.SBone(); // (0, 0)
             }
             
