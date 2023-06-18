@@ -105,9 +105,7 @@ namespace DominoC
 
         private static bool IsBoneCompatible(MTable.SBone bone, ushort side)
         {
-            return (bone.First == side) || (bone.Second == side)
-                                        || (bone.First == 0) || (bone.Second == 0)
-                                        || (side == 0);
+            return (bone.First == side) || (bone.Second == side);
         }
 
         private static IEnumerable<MTable.SBone> GetCompatibleBones(in List<MTable.SBone> list, ushort side)
