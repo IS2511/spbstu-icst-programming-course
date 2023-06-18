@@ -159,7 +159,7 @@ namespace DominoC
                 facesOnBoard.Remove(face.Key);
 
             // Выбираем лицо которое встречается на столе чаще всего
-            var maxCompatibleFace = facesOnBoard.Max().Key;
+            var maxCompatibleFace = facesOnBoard.MaxBy(face => face.Value).Key;
 
             // Возвращаем максимально ценную (по очкам) доминошку из подходящих,
             // имеющую выбранное (наиболее частое) лицо
