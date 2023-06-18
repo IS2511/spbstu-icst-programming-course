@@ -84,7 +84,7 @@ namespace DominoC
                         lHand.Remove(bone);
                         sb = bone;
                         // Being a bit lazy, just doing a duplicate comparison. It's cheap anyway
-                        End = IsBoneCompatible(bone, lastBone.Second);
+                        End = IsBoneCompatible(sb, lastBone.Second);
                         return true;
                     }
                 }
